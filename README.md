@@ -1,1 +1,2 @@
-# SonHW9-2
+./build.sh
+./read_resistance
